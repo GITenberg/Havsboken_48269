@@ -1,10 +1,16 @@
 _repo: Havsboken_48269
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48269-h/images/cover.jpg
 creator:
   author:
     agent_name: Elgström, Anna Lenah
     gutenberg_agent_id: '44708'
     url: http://www.gutenberg.org/2009/agents/44708
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48269#Havsboken
 gutenberg_issued: '2015-02-15'
 gutenberg_type: Text
 identifiers:
